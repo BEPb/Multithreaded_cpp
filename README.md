@@ -3,7 +3,7 @@
 
 <img src="./art/stepik_logotype_green.png" alt="logo" width="600" height="200.5">
 
-# Программирование на C++
+# Многопоточное программирование на С/С++
 
 </div>
 
